@@ -1,0 +1,269 @@
+﻿[
+    {
+        "code":  "animation"
+    },
+    {
+        "code":  "ant"
+    },
+    {
+        "code":  "comet"
+    },
+    {
+        "code":  "hatching_chick"
+    },
+    {
+        "code":  "tornado"
+    },
+    {
+        "code":  "otter"
+    },
+    {
+        "code":  "raccoon"
+    },
+    {
+        "code":  "honeybee"
+    },
+    {
+        "code":  "baby_chick"
+    },
+    {
+        "code":  "bat"
+    },
+    {
+        "code":  "bird"
+    },
+    {
+        "code":  "black_bird"
+    },
+    {
+        "code":  "blowfish"
+    },
+    {
+        "code":  "bug"
+    },
+    {
+        "code":  "butterfly"
+    },
+    {
+        "code":  "chipmunk"
+    },
+    {
+        "code":  "cloud_with_rain"
+    },
+    {
+        "code":  "cloud_with_lightning"
+    },
+    {
+        "code":  "cockroach"
+    },
+    {
+        "code":  "cow_face"
+    },
+    {
+        "code":  "crocodile"
+    },
+    {
+        "code":  "dog"
+    },
+    {
+        "code":  "dolphin_time_remap"
+    },
+    {
+        "code":  "donkey"
+    },
+    {
+        "code":  "dove"
+    },
+    {
+        "code":  "dragon"
+    },
+    {
+        "code":  "droplet_time_remap"
+    },
+    {
+        "code":  "eagle"
+    },
+    {
+        "code":  "fish"
+    },
+    {
+        "code":  "fly"
+    },
+    {
+        "code":  "frog"
+    },
+    {
+        "code":  "front_facing_baby_chick_remap"
+    },
+    {
+        "code":  "globe_retime"
+    },
+    {
+        "code":  "goat_edit"
+    },
+    {
+        "code":  "goose"
+    },
+    {
+        "code":  "gorilla"
+    },
+    {
+        "code":  "guide_dog"
+    },
+    {
+        "code":  "horse_remap"
+    },
+    {
+        "code":  "jelly_fish"
+    },
+    {
+        "code":  "kangaroo"
+    },
+    {
+        "code":  "lady_beetle"
+    },
+    {
+        "code":  "lizard"
+    },
+    {
+        "code":  "monkey_rota_retime"
+    },
+    {
+        "code":  "mosquito"
+    },
+    {
+        "code":  "octopus"
+    },
+    {
+        "code":  "orangutan"
+    },
+    {
+        "code":  "ox"
+    },
+    {
+        "code":  "paw_print"
+    },
+    {
+        "code":  "peacock"
+    },
+    {
+        "code":  "pig"
+    },
+    {
+        "code":  "poodle"
+    },
+    {
+        "code":  "rabbit"
+    },
+    {
+        "code":  "rainbow_mask"
+    },
+    {
+        "code":  "rat"
+    },
+    {
+        "code":  "rooster"
+    },
+    {
+        "code":  "sauropod"
+    },
+    {
+        "code":  "scorpion"
+    },
+    {
+        "code":  "shamrock"
+    },
+    {
+        "code":  "shark"
+    },
+    {
+        "code":  "snail"
+    },
+    {
+        "code":  "snake"
+    },
+    {
+        "code":  "spider"
+    },
+    {
+        "code":  "t_rex_time_remap"
+    },
+    {
+        "code":  "tiger"
+    },
+    {
+        "code":  "u"
+    },
+    {
+        "code":  "uf"
+    },
+    {
+        "code":  "uf_1"
+    },
+    {
+        "code":  "ufc"
+    },
+    {
+        "code":  "uf_2"
+    },
+    {
+        "code":  "uf_3"
+    },
+    {
+        "code":  "ufa"
+    },
+    {
+        "code":  "ufb"
+    },
+    {
+        "code":  "ufc_1"
+    },
+    {
+        "code":  "uf_4"
+    },
+    {
+        "code":  "ufa_1"
+    },
+    {
+        "code":  "uf_5"
+    },
+    {
+        "code":  "uf_6"
+    },
+    {
+        "code":  "ufa_2"
+    },
+    {
+        "code":  "ufa_3"
+    },
+    {
+        "code":  "ufa_4"
+    },
+    {
+        "code":  "ufacd"
+    },
+    {
+        "code":  "u_1"
+    },
+    {
+        "code":  "unicorn"
+    },
+    {
+        "code":  "whale"
+    },
+    {
+        "code":  "worm"
+    },
+    {
+        "code":  "lobster"
+    },
+    {
+        "code":  "seal"
+    },
+    {
+        "code":  "turtle_remap"
+    },
+    {
+        "code":  "uf_7"
+    }
+]
